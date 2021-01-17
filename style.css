@@ -26,3 +26,6 @@ button:hover {
 h1:hover {
   color: aqua;
 }
+nav:hover {
+  background: linear-gradient(32deg, pink, purple);
+}
