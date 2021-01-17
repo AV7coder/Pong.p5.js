@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(0, 92, 0);
+  text-align: center;
+}
+h1 {
+  color: lime;
+  font-size: 50px;
+}
+a {
+  color: black;
+  font-size: 30px;
+}
+.navigation {
+  background-color: yellow;
+  border-radius: 18px;
+}
+button {
+  color: white;
+  background: linear-gradient(23deg, red, blue);
+  border-radius: 12px;
+}
