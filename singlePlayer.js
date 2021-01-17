@@ -43,7 +43,6 @@ function draw() {
     function move() {
         if (yBall === 386)
         {
-            score = 0;
             xBall = 386;
             yBall = 386;
         }
